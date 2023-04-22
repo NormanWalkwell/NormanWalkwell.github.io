@@ -1,22 +1,31 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Telling Stories with Data"
+    url: /telling-stories-with-data/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "D3"
+    url: /D3/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Tableau"
+    url: /tableau/
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

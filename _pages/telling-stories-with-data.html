@@ -1,0 +1,18 @@
+---
+layout: archive
+permalink: /
+author_profile: true
+redirect_from: 
+  - /telling-stories-with-data/
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">Test</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
