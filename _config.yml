@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ben Leathers"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My personal projects as a:<br>&nbsp;&nbsp;&nbsp;&nbsp;- Data Scientist<br>&nbsp;&nbsp;&nbsp;&nbsp;- Analyst<br>&nbsp;&nbsp;&nbsp;&nbsp;- Engineer"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
