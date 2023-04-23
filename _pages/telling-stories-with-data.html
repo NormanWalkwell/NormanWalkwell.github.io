@@ -1,18 +1,22 @@
----
-layout: archive
+<!-- ---
+layout: post
 permalink: /
 author_profile: true
 redirect_from: 
   - /telling-stories-with-data/
----
+--- -->
 
-{% if site.talkmap_link == true %}
+{% include sidebar.html %}
+<!-- {% include base_path %} -->
+{% include LeathersHead/2023-04-17-pre-draft-review-article.html %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">Test</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
+<!-- {% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %} -->
