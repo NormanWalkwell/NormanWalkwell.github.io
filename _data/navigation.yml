@@ -2,6 +2,15 @@
 main:
   - title: "Telling Stories with Data"
     url: /telling-stories-with-data/
+    sublinks:
+      - title: "Article"
+        url: /telling-stories-with-data/article/
+
+      - title: "Jupyter Notebook"
+        url: /telling-stories-with-data/notebook/
+
+      - title: "Podcast"
+        url: /telling-stories-with-data/podcast/
 
   - title: "D3"
     url: /D3/
@@ -29,3 +38,14 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
+
+# stories:
+
+#   - title: "Article"
+#     url: /telling-stories-with-data/article/
+
+#   - title: "Jupyter Notebook"
+#     url: /telling-stories-with-data/notebook/
+
+#   - title: "Podcast"
+#     url: /telling-stories-with-data/podcast/
